@@ -1,0 +1,36 @@
+Review,Rating,Cleaned_Review,Sentiment_Score,Sentiment
+This product is excellent and works perfectly,5,this product is excellent and works perfectly,0.836,Positive
+I absolutely love this product,5,i absolutely love this product,0.6697,Positive
+Amazing quality and very useful,5,amazing quality and very useful,0.7902,Positive
+The product is fantastic,5,the product is fantastic,0.5574,Positive
+Very happy with my purchase,5,very happy with my purchase,0.6115,Positive
+Good product and reasonable quality,4,good product and reasonable quality,0.4404,Positive
+I am satisfied with this purchase,4,i am satisfied with this purchase,0.4215,Positive
+The product works well,4,the product works well,0.2732,Positive
+Pretty good product for the price,4,pretty good product for the price,0.7269,Positive
+I like the product,4,i like the product,0.3612,Positive
+The product is okay,3,the product is okay,0.2263,Positive
+It is an average product,3,it is an average product,0.0,Neutral
+Nothing special about this product,3,nothing special about this product,-0.3089,Negative
+The quality is acceptable,3,the quality is acceptable,0.3182,Positive
+It works as expected,3,it works as expected,0.0,Neutral
+I don't like this product,2,i dont like this product,-0.2755,Negative
+The quality is disappointing,2,the quality is disappointing,-0.4939,Negative
+The product could be much better,2,the product could be much better,0.4404,Positive
+Not happy with the purchase,2,not happy with the purchase,-0.4585,Negative
+The product has several problems,2,the product has several problems,-0.4019,Negative
+Terrible product and very poor quality,1,terrible product and very poor quality,-0.7574,Negative
+I hate this product,1,i hate this product,-0.5719,Negative
+Completely useless product,1,completely useless product,-0.4754,Negative
+Very disappointed with this purchase,1,very disappointed with this purchase,-0.5256,Negative
+Worst product I have ever bought,1,worst product i have ever bought,-0.6249,Negative
+Excellent performance and great quality,5,excellent performance and great quality,0.8316,Positive
+Really useful and easy to use,5,really useful and easy to use,0.7474,Positive
+The delivery was fast and the product was great,5,the delivery was fast and the product was great,0.6249,Positive
+Good quality but slightly expensive,4,good quality but slightly expensive,0.2382,Positive
+The product is decent and useful,4,the product is decent and useful,0.4404,Positive
+It is fine but could be improved,3,it is fine but could be improved,0.6757,Positive
+Average quality for the price,3,average quality for the price,0.0,Neutral
+The product stopped working quickly,2,the product stopped working quickly,-0.2263,Negative
+Poor quality and disappointing service,1,poor quality and disappointing service,-0.743,Negative
+Very bad experience with this product,1,very bad experience with this product,-0.5849,Negative
